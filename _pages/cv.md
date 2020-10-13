@@ -25,9 +25,9 @@ Work Experience
   * Research Intern 
   * Mentor: Franck Le and Supriyo Charkraborty
 
-* **Winter 2016: Intel**
+* **Winter 2016: Intel Asia-Pacific Research and Development Ltd**
   * Shanghai 
-  * Software Engineer Intern
+  * Software Engineer Intern at Big Data Product Team
   
 Skills
 ======
