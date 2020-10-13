@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-* Yunni & Maxine Pao Memorial Fellowship, 2020 - 2021
+* Yunni & Maxine Pao Memorial Fellowship, 2020 - 2021.
 * Third Place Best Student Paper Award of Fusion 2019.
 * Distinguished Paper Award of IMWUT/UbiComp 2018.
 * Shanghai Outstanding Graduate, 2017.
