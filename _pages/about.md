@@ -8,20 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at University of Illinois at Urbana-Champaign (UIUC), advised by Prof. [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/).
+I am a Ph.D. student of [Department of Computer Science](https://cs.illinois.edu/) at [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/), advised by Prof. [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/). Before that, I received my bachelor degree from [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/en/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), under the supervision of Prof. [Fan Wu](http://www.cs.sjtu.edu.cn/~fwu/). My research focuses on the machine intelligence empowered cyber-physical systems (CPS) and real-time systems.
 
 Research Interests
 ======
-- 
-* Machine Learning 
+I am generally interested in the intelligent cyber-physical systems and applications:
 
-* Cyber-Physical Systems (CPS)
-
+* Machine Learning
 * Internet of Things (IoT)
-
 * Intelligent Real-Time Systems
-
-* Sensor Fusion
-
+* Deep Sensor Fusion
 * Social Network Analysis
 
