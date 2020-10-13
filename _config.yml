@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shengzhong Liu"
 title_separator          : "-"
 name                     : &name "Shengzhong Liu"
-description              : &description "Ph.D. Student"
+description              : &description "Ph.D. Student at UIUC"
 url                      : https://liushengzhong1023.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liushengzhong1023/liushengzhong1023.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Shengzhong Liu"
   avatar           : "ShengzhongLiu.png"
-  bio              : "Ph.D. Student"
-  location         : #"Location"
-  employer         : "UIUC"
+  bio              : "Ph.D. Student at UIUC"
+  location         : "Urbana, Illinois"
+  employer         : #"UIUC"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=REzrIucAAAAJ&hl=en"
   email            : "sl29@illinois.edu"
@@ -227,7 +227,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _ tfolio
   - scope:
       path: ""
       type: awards
