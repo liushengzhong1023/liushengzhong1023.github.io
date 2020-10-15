@@ -33,7 +33,7 @@ author_profile: true
 * Shuochao Yao, Ailing Piao, Wenjun Jiang, Yiran Zhao, Huajie Shao, **Shengzhong Liu**, Dongxin Liu, Jinyang Li, Tianshi Wang, Shaohan Hu, Lu Su, Jiawei Han and Tarek Abdelzaher, "STFNets: Learning Sensing Signals from the Time-Frequency Perspective with Short-Time Fourier Neural Networks," The Web Conference (WWW), San Francisco, CA, May 2019.
 * Shuochao Yao, Yiran Zhao, Huajie Shao, Dongxin Liu, **Shengzhong Liu**, Yifan Hao, Ailing Piao, Shaohan Hu, Lu Su, Tarek Abdelzaher, "SADeepSense: Self-Attention Deep Learning Framework for Heterogeneous On-Device Sensors in Internet of Things Applications," IEEE Infocom, Paris, France, April 2019.
 
-### 2018 
+## 2018 
 * Shuochao Yao and Yifan Hao, James Flamino, Dongxin Liu, **Shengzhong Liu**, Huajie Shao, Mouna Bamba, Jiahao Wu, Tarek Abdelzaher, and Boleslaw Szymanski "A Predictive Self-Configuring Simulator for Online Media," Winter Simulation Conference, Gothenburg, Sweden, December 2018.
 * Shuochao Yao, Yiran Zhao, Huajie Shao, **Shengzhong Liu**, Dongxin Liu, Lu Su, Tarek Abdelzaher, "FastDeepIoT: Towards Understanding and Optimizing Neural Network Execution Time on Mobile and Embedded Devices," In Proc. 16th ACM Conference on Embedded Networked Sensor Systems (SenSys), Shenzhen, China, November 2018.
 * Shuochao Yao, Yiran Zhao, Huajie Shao, Chao Zhang, Aston Zhang, Shaohan Hu, Dongxin Liu, **Shengzhong Liu**, Lu Su, Tarek Abdelzaher, "SenseGAN: Enabling Deep Learning for Internet of Things with a Semi-Supervised Framework," Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), September 2018. (Also appears in UbiComp '18, Singapore, October 2018.)
