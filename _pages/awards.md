@@ -5,6 +5,9 @@ permalink: /awards/
 author_profile: true
 ---
 
+* Best Paper Award of RTSS 2020.
+* Outstanding Paper Award of RTSS 2020.
+* Best Paper Award of SenSys 2020.
 * Yunni & Maxine Pao Memorial Fellowship, 2020 - 2021.
 * Third Place Best Student Paper Award of Fusion 2019.
 * Distinguished Paper Award of IMWUT/UbiComp 2018.
