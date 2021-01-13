@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Shengzhong Liu - UIUC"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
