@@ -5,6 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
+* Best Paper Candidates of RTCSA 2021
 * Best Paper Award of RTSS 2020.
 * Outstanding Paper Award of RTSS 2020.
 * Best Paper Award of SenSys 2020.
