@@ -12,7 +12,7 @@ author_profile: true
 ## 2022
 
 * **Shengzhong Liu**, Xinzhe Fu, Maggie Wigness, Philip David, Shuochao Yao, Lui Sha, Tarek Abdelzaher, "Self-Cueing Real-Time Attention Scheduling in Criticality-Driven Visual Machine Perception", in Proc. 28th IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), Milano, Italy, May 2022.
-
+* **Shengzhong Liu**, Tianshi Wang, Hongpeng Guo, Xinzhe Fu, Philip David, Maggie Wigness, Archan Misra, Tarek Abdelzaher, "Multi-View Scheduling of Onboard Live Video Analytics to Minimize Frame Processing Latency", in Proc. 42nd IEEE International Conference on Distributed Computing Systems (ICDCS), Bologna, Italy, July 2022.
 
 ## 2021
 
