@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Illinois at Urbana-Champaign, 2022 (expected)
+* Ph.D in Computer Science, University of Illinois at Urbana-Champaign, 2021
   * Advisor: Prof. Tarek Abdelzaher
 * B.S. in Computer Science, Shanghai Jiao Tong University, 2017
   * Graduated with the highest honor.
@@ -20,6 +20,9 @@ Education
 
 Work Experience
 ======
+* **2021-: Coordinated Science Laboratory, UIUC**
+  * Postdoc Research Associate
+  * Advisor: Prof. Tarek Abdelzaher
 * **Summer 2020: IBM T.J. Watson Research Center**
   * Yorktown Heights
   * Research Intern 

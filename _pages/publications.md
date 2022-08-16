@@ -11,8 +11,13 @@ author_profile: true
 
 ## 2022
 
+* **Shengzhong Liu**, Tianshi Wang, Jinyang Li, Dachun Sun, Mani Srivastava, and Tarek Abdelzaher, "AdaMask: Enabling Machine-Centric Video Streaming with Adaptive Frame Masking for DNN Inference Offloading", in Proc. ACM Multimedia, Lisbon, Portugal, October 2022.
 * **Shengzhong Liu**, Xinzhe Fu, Maggie Wigness, Philip David, Shuochao Yao, Lui Sha, Tarek Abdelzaher, "Self-Cueing Real-Time Attention Scheduling in Criticality-Driven Visual Machine Perception", in Proc. 28th IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), Milano, Italy, May 2022.
 * **Shengzhong Liu**, Tianshi Wang, Hongpeng Guo, Xinzhe Fu, Philip David, Maggie Wigness, Archan Misra, Tarek Abdelzaher, "Multi-View Scheduling of Onboard Live Video Analytics to Minimize Frame Processing Latency", in Proc. 42nd IEEE International Conference on Distributed Computing Systems (ICDCS), Bologna, Italy, July 2022.
+* Yigong Hu, **Shengzhong Liu**, Tarek Abdelzaher, Maggie Wigness, and Philip David, "Real-Time Task Scheduling with Image Resizing for Criticality-based Machine Perception", in Journal of Real-Time Systems, accepted in 2022.
+* Ragini Gupta, Bo Chen, **Shengzhong Liu**, Tianshi Wang, Klara Nahrstedt, Tarek Abdelzaher, Sandeep Sandha, Mani Srivastava, Abel Souza, Prashant Shenoy, Jeffrey Smith, Maggie Wigness, and Niranjan Suri, "DARTS: Distributed IoT Architecture for Real-Time, Resilient and AI-Compressed Workflows", in Proc. ACM ApPLIED 2022 (affliated with PODC-2022).
+* Dongxin Liu, Tarek Abdelzaher, Tianshi Wang, Yigong Hu, Jinyang Li, **Shengzhong Liu**, Matthew Caesar, Deepti Kalasapura, Joydeep Bhattacharyya, Nassy Srour, Maggie Wigness, Jae Kim, Guijun Wang, Greg Kimberly, Denis Osipychev, Shouchao Yao, "IoBT-OS: Optimizing the Sensing-to-Decision Pipeline for the Internet of Battlefield Things", in Proc. 31st International Conference on Computer Communications and Networks (ICCCN), July 2022.
+* Jinning Li, Huajie Shao, Dachun Sun, Ruijie Wang, Yuchen Yan, Jinyang Li, **Shengzhong Liu**, Hanghang Tong, Tarek Abdelzaher, "Unsupervised Belief Representation Learning with Information-Theoretic Variational Graph Auto-Encoders", in Proc. SIGIR, Madrid, Spain, 2022.
 
 ## 2021
 

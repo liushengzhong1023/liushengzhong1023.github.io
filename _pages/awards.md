@@ -5,6 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
+* Outstanding Paper Award of RTAS 2022.
 * Best Paper Candidates of RTCSA 2021
 * Best Paper Award of RTSS 2020.
 * Outstanding Paper Award of RTSS 2020.
