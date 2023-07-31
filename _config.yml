@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shengzhong Liu"
   avatar           : "ShengzhongLiu.png"
-  bio              : "Postdoc at UIUC"
-  location         : "Urbana, Illinois"
+  bio              : "Faculty at SJTU"
+  location         : "Shanghai, China"
   employer         : #"UIUC"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=REzrIucAAAAJ&hl=en"
-  email            : "sl29@illinois.edu"
+  email            : "shengzhong@sjtu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Shengzhong_Liu3"
   uri              :
   bitbucket        :
