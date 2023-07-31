@@ -9,6 +9,13 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+## 2023
+* **Shengzhong Liu**, Xinzhe Fu, Yigong Hu, Maggie Wigness, Philip David, Shuochao Yao, Lui Sha, and Tarek Abdelzaher, "Generalized Self-Cueing Real-Time Attention Scheduling with Intermittent Inspection and Image Resizing", in Springer Journal of Real-Time Systems, 2023.
+* **Shengzhong Liu**, Shuochao Yao, Xinzhe Fu, Rohan Tabish, Simon Yu, Ayoosh Bansal, Heechul Yun, Lui Sha, and Tarek Abdelzaher, "Taming Algorithmic Priority Inversion in Mission-critical Perception Pipelines", in Communications of ACM - Research Highlights, 2023.
+* Ruijie Wang, Baoyu Li, Yichen Lu, Dachun Sun, Jinning Li, Yuchen Yan, **Shengzhong Liu**, Hanghang Tong and Tarek F. Abdelzaher, "Noisy Positive-Unlabeled Learning with Self-Training for Speculative Knowledge Graph Reasoning", in Proc. ACL, Toronto, Canada, July 2023.
+* Deepti Kalasapura, Jinyang Li, **Shengzhong Liu**, Yizhuo Chen, Ruijie Wang, and Tarek Abdelzaher, Matthew Caesar, Joydeep Bhattacharyya, Jae Kim, Guijun Wang, Greg Kimberly, Josh Eckhardt, and Denis Osipychev, "TwinSync: A Digital Twin Synchronization Protocol for Bandwidth-limited IoT Applications", in Proc. IEEE ICCCN, Honolulu, HI, July 2023.
+* Yigong Hu, Ila Gokarn, **Shengzhong Liu**, Archan Misra, and Tarek Abdelzaher, "Underprovisioned GPUs: On Sufficient Capacity for Real-Time Mission-Critical Perception", in Proc. IEEE ICCCN, Honolulu, HI, July 2023.
+
 ## 2022
 
 * **Shengzhong Liu**, Tianshi Wang, Jinyang Li, Dachun Sun, Mani Srivastava, and Tarek Abdelzaher, "AdaMask: Enabling Machine-Centric Video Streaming with Adaptive Frame Masking for DNN Inference Offloading", in Proc. ACM Multimedia, Lisbon, Portugal, October 2022.
@@ -18,6 +25,8 @@ author_profile: true
 * Ragini Gupta, Bo Chen, **Shengzhong Liu**, Tianshi Wang, Klara Nahrstedt, Tarek Abdelzaher, Sandeep Sandha, Mani Srivastava, Abel Souza, Prashant Shenoy, Jeffrey Smith, Maggie Wigness, and Niranjan Suri, "DARTS: Distributed IoT Architecture for Real-Time, Resilient and AI-Compressed Workflows", in Proc. ACM ApPLIED 2022 (affliated with PODC-2022).
 * Dongxin Liu, Tarek Abdelzaher, Tianshi Wang, Yigong Hu, Jinyang Li, **Shengzhong Liu**, Matthew Caesar, Deepti Kalasapura, Joydeep Bhattacharyya, Nassy Srour, Maggie Wigness, Jae Kim, Guijun Wang, Greg Kimberly, Denis Osipychev, Shouchao Yao, "IoBT-OS: Optimizing the Sensing-to-Decision Pipeline for the Internet of Battlefield Things", in Proc. 31st International Conference on Computer Communications and Networks (ICCCN), July 2022.
 * Jinning Li, Huajie Shao, Dachun Sun, Ruijie Wang, Yuchen Yan, Jinyang Li, **Shengzhong Liu**, Hanghang Tong, Tarek Abdelzaher, "Unsupervised Belief Representation Learning with Information-Theoretic Variational Graph Auto-Encoders", in Proc. SIGIR, Madrid, Spain, 2022.
+* Ruijie Wang, Zheng li, Dachun Sun, **Shengzhong Liu**, Jinning Li, Bing Yin, and Tarek Abdelzaher, "Learning to Sample and Aggregate: Few-shot Reasoning over Temporal Knowledge Graph", in Proc. NeurIPS, New Orleans, LA, November 2022.
+* Tianshi Wang, Denizhan Kara, Jinyang Li, **Shengzhong Liu**, Tarek Abdelzaher, and Brian Jalaian, "The Methodological Pitfall of Dataset-Driven Research on Deep Learning: An IoT Example", in Proc. MILCOM, IoT-AE Workshop, Rockville, MD, December 2022.
 
 ## 2021
 

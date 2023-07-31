@@ -20,21 +20,17 @@ Education
 
 Work Experience
 ======
-* **2021-: Coordinated Science Laboratory, UIUC**
+* **2023-Now: Department of Computer Science and Engineering, SJTU**
+  * Tenure-Track Associate Professor
+* **2021-2023: Coordinated Science Laboratory, UIUC**
   * Postdoc Research Associate
   * Advisor: Prof. Tarek Abdelzaher
 * **Summer 2020: IBM T.J. Watson Research Center**
   * Yorktown Heights
   * Research Intern 
   * Mentor: Franck Le and Supriyo Charkraborty
-
 * **Winter 2016: Intel Asia-Pacific Research and Development Ltd**
   * Shanghai 
   * Software Engineer Intern at Big Data Product Team
-  
-Skills
-======
-* **Programming Language:** Proficient in Python, famaliar with C/C++, JAVA, Markdown
-* **Tools:** MATLAB, LaTex, TensorFlow, Git
 
 
