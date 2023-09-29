@@ -10,8 +10,10 @@ author_profile: true
 {% endif %}
 
 ## 2023
+* **Shengzhong Liu**, Tomoyoshi Kimura, Dongxin Liu, Ruijie Wang, Jinyang Li, Suhas Diggavi, Mani Srivastava, and Tarek Abdelzaher, "FOCAL: Contrastive Learning for Multimodal Time-Series Sensing Signals in Factorized Orthogonal Latent Space", in  Proc. NeurIPS, New Orleans, USA, December 2023.
 * **Shengzhong Liu**, Xinzhe Fu, Yigong Hu, Maggie Wigness, Philip David, Shuochao Yao, Lui Sha, and Tarek Abdelzaher, "Generalized Self-Cueing Real-Time Attention Scheduling with Intermittent Inspection and Image Resizing", in Springer Journal of Real-Time Systems, 2023.
 * **Shengzhong Liu**, Shuochao Yao, Xinzhe Fu, Rohan Tabish, Simon Yu, Ayoosh Bansal, Heechul Yun, Lui Sha, and Tarek Abdelzaher, "Taming Algorithmic Priority Inversion in Mission-critical Perception Pipelines", in Communications of ACM - Research Highlights, 2023.
+* Tianshi Wang, Jinyang Li, Ruijie Wang, Denizhan Kara, **Shengzhong Liu**, Davis Wertheimer, Antoni Martin, Raghu Ganti, Mudhakar Srivatsa, and Tarek Abdelzaher, "SudokuSens: Enhancing Deep Learning Robustness for IoT Sensing Applications using a Generative Approach", in Proc. ACM SenSys, Istanbul, Turkey, November 2023.
 * Ruijie Wang, Baoyu Li, Yichen Lu, Dachun Sun, Jinning Li, Yuchen Yan, **Shengzhong Liu**, Hanghang Tong and Tarek F. Abdelzaher, "Noisy Positive-Unlabeled Learning with Self-Training for Speculative Knowledge Graph Reasoning", in Proc. ACL, Toronto, Canada, July 2023.
 * Deepti Kalasapura, Jinyang Li, **Shengzhong Liu**, Yizhuo Chen, Ruijie Wang, and Tarek Abdelzaher, Matthew Caesar, Joydeep Bhattacharyya, Jae Kim, Guijun Wang, Greg Kimberly, Josh Eckhardt, and Denis Osipychev, "TwinSync: A Digital Twin Synchronization Protocol for Bandwidth-limited IoT Applications", in Proc. IEEE ICCCN, Honolulu, HI, July 2023.
 * Yigong Hu, Ila Gokarn, **Shengzhong Liu**, Archan Misra, and Tarek Abdelzaher, "Underprovisioned GPUs: On Sufficient Capacity for Real-Time Mission-Critical Perception", in Proc. IEEE ICCCN, Honolulu, HI, July 2023.
