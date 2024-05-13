@@ -11,10 +11,10 @@ author_profile: true
 
 ## 2024
 * Ruijie Wang, Jingyuan Huang, Yutong Zhang, Jinyang Li, Yufeng Wang, Wanyu Zhao, **Shengzhong Liu**, Charith Mendis, Tarek Abdelzaher, "TGOnline: Enhancing Temporal Graph Learning with Adaptive Online Meta-Learning", in Proc. SIGIR, Washington DC, USA, July 2024.
-* Ruijie Wang, Yutong Zhang, Jinyang Li, Shengzhong Liu, Dachun Sun, Tianchen Wang, Tianshi Wang, Yizhuo Chen, Denizhan Kara, Tarek Abdelzaher, "MetaHKG: Meta Hyperbolic Learning for Few-shot Temporal Reasoning", in Proc. SIGIR, Washington DC, USA, July 2024.
+* Ruijie Wang, Yutong Zhang, Jinyang Li, **Shengzhong Liu**, Dachun Sun, Tianchen Wang, Tianshi Wang, Yizhuo Chen, Denizhan Kara, Tarek Abdelzaher, "MetaHKG: Meta Hyperbolic Learning for Few-shot Temporal Reasoning", in Proc. SIGIR, Washington DC, USA, July 2024.
 * Tomoyoshi Kimura, Jinyang Li, Tianshi Wang, Denizhan Kara, Yizhuo Chen, Yigong Hu, Ruijie Wang, Maggie Wigness, **Shengzhong Liu**, Mani Srivastava, Suhas Diggavi, Tarek Abdelzaher, "On the Efficiency and Robustness of Vibration-based Foundation Models for IoT Sensing: A Case Study", in Proc. FM-Sys Workshop, Hong Kong, May 2024.
 * Yigong Hu, Ila Gokarn, **Shengzhong Liu**, Archan Misra, Tarek Abdelzaher, "Algorithms for Canvas-based Attention Scheduling with Resizing", in Proc. IEEE RTAS, Hong Kong, May 2024.
-* Denizhan Kara, Shengzhong Liu, Jinyang Li, Dongxin Liu, Tianshi Wang, Ruijie Wang, Yizhuo Chen, Yigong Hu, Tarek Abdelzaher, "FreqMAE: Frequency-Aware Masked Autoencoder for Multi-Modal IoT Sensing", in Proc. The Web Conference (WWW), Singapore, May 2024.
+* Denizhan Kara, **Shengzhong Liu**, Jinyang Li, Dongxin Liu, Tianshi Wang, Ruijie Wang, Yizhuo Chen, Yigong Hu, Tarek Abdelzaher, "FreqMAE: Frequency-Aware Masked Autoencoder for Multi-Modal IoT Sensing", in Proc. The Web Conference (WWW), Singapore, May 2024.
 
 ## 2023
 * **Shengzhong Liu**, Tomoyoshi Kimura, Dongxin Liu, Ruijie Wang, Jinyang Li, Suhas Diggavi, Mani Srivastava, Tarek Abdelzaher, "FOCAL: Contrastive Learning for Multimodal Time-Series Sensing Signals in Factorized Orthogonal Latent Space", in  Proc. NeurIPS, New Orleans, USA, December 2023.
