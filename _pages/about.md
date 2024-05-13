@@ -19,7 +19,6 @@ I am generally interested in intelligent cyber-physical systems and IoT applicat
 * Machine Learning
 * Internet of Things (IoT)
 * Intelligent Real-Time Systems
-* Multi-Modal Sensing and Learning
+* Foundation Model for Multi-Modal IoT Sensing
 * Autonomous Driving
-* Social Network Analysis
 
