@@ -9,8 +9,12 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+## 2025
+* Yatong Chen, Chenzhi Hu, Tomoyoshi Kimura,  **Shengzhon Liu**, Fan Wu, Guihai Chen, "SemiCMT: Contrastive Cross-Modal Knowledge Transfer for IoT Sensing with Semi-Paired Multi-Modal Signals", in Proc. ACM IMWUT/UbiComp 2025.
+
 ## 2024
 * Yuhang Xu, Zixuan Liu, Xinzhe Fu, **Shengzhong Liu**, Fan Wu, Guihai Chen, "FLEX: Adaptive Task Batch Scheduling with Elastic Fusion in Multi-Modal Multi-View Machine Perception", in Proc. IEEE RTSS, York, UK, December 2024.
+* Denizhan Kara, Tomoyoshi Kimura, Yatong Chen, Jinyang Li, Ruijie Wang, Yizhuo Chen, Tianshi Wang,  **Shengzhong Liu**, Lance Kaplan, Joydeep Bhattacharyya, Tarek Abdelzaher, "PhyMask: An Adaptive Masking Paradigm for Efficient  Self-Supervised Learning in IoT", in Proc. ACM SenSys 2024, Hangzhou, China, November 2024.
 * Tomoyoshi Kimura, Jinyang Li, Tianshi Wang, Yizhuo Chen, Ruijie Wang, Denizhan Kara, Maggie Wigness, Joydeep Bhattacharyya, Mudhakar Srivatsa, **Shengzhong Liu**, Mani Srivastava, Suhas Diggavi, Tarek Abdelzaher, "VibroFM: Towards Micro Foundation Models for Robust Multimodal IoT Sensing", in Proc. IEEE MASS, Seoul, South Korea, September 2024.
 * Ruijie Wang, Jingyuan Huang, Yutong Zhang, Jinyang Li, Yufeng Wang, Wanyu Zhao, **Shengzhong Liu**, Charith Mendis, Tarek Abdelzaher, "TGOnline: Enhancing Temporal Graph Learning with Adaptive Online Meta-Learning", in Proc. ACM SIGIR, Washington DC, USA, July 2024.
 * Ruijie Wang, Yutong Zhang, Jinyang Li, **Shengzhong Liu**, Dachun Sun, Tianchen Wang, Tianshi Wang, Yizhuo Chen, Denizhan Kara, Tarek Abdelzaher, "MetaHKG: Meta Hyperbolic Learning for Few-shot Temporal Reasoning", in Proc. ACM SIGIR, Washington DC, USA, July 2024.
