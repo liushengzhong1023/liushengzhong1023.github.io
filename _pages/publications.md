@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 ## 2025
-* Yatong Chen, Chenzhi Hu, Tomoyoshi Kimura,  **Shengzhon Liu**, Fan Wu, Guihai Chen, "SemiCMT: Contrastive Cross-Modal Knowledge Transfer for IoT Sensing with Semi-Paired Multi-Modal Signals", in Proc. ACM IMWUT/UbiComp 2025.
+* Yatong Chen, Chenzhi Hu, Tomoyoshi Kimura,  **Shengzhong Liu**, Fan Wu, Guihai Chen, "SemiCMT: Contrastive Cross-Modal Knowledge Transfer for IoT Sensing with Semi-Paired Multi-Modal Signals", in Proc. ACM IMWUT/UbiComp 2025.
 
 ## 2024
 * Yuhang Xu, Zixuan Liu, Xinzhe Fu, **Shengzhong Liu**, Fan Wu, Guihai Chen, "FLEX: Adaptive Task Batch Scheduling with Elastic Fusion in Multi-Modal Multi-View Machine Perception", in Proc. IEEE RTSS, York, UK, December 2024.
