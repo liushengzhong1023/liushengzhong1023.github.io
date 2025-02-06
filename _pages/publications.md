@@ -10,6 +10,9 @@ author_profile: true
 {% endif %}
 
 ## 2025
+* Yongxuan Han, **Shengzhong Liu**, Fan Wu, Guihai Chen, "ABO: Abandon Bayer Filter for Adaptive Edge Offloading in Responsive Augmented Reality", in Proc. WWW 2025.
+* Tomoyoshi Kimura, Xinlin Li, Osama Hanna, Yatong Chen, Yizhuo Chen, Denizhan Kara, Tianshi Wang, Jinyang Li, Xiaomin Ouyang, **Shengzhong Liu**, Mani Srivastava, Suhas Diggavi, Tarek Abdelzaher, "InfoMAE: Pairing-Efficient Cross-Modal Alignment with Informational Masked Autoencoders for IoT Signals", in Proc. WWW 2025.
+* Haibo Liu, Chen Gong, Zhenzhe Zheng, **Shengzhong Liu**, Fan Wu, "Enabling Real-Time Inference in Online Continual Learning via Device-Cloud Collaboration", in Proc. WWW 2025.
 * Yatong Chen, Chenzhi Hu, Tomoyoshi Kimura,  **Shengzhong Liu**, Fan Wu, Guihai Chen, "SemiCMT: Contrastive Cross-Modal Knowledge Transfer for IoT Sensing with Semi-Paired Multi-Modal Signals", in Proc. ACM IMWUT/UbiComp 2025.
 
 ## 2024
@@ -33,7 +36,7 @@ author_profile: true
 
 ## 2022
 
-* **Shengzhong Liu**, Tianshi Wang, Jinyang Li, Dachun Sun, Mani Srivastava, Tarek Abdelzaher, "AdaMask: Enabling Machine-Centric Video Streaming with Adaptive Frame Masking for DNN Inference Offloading", in Proc. ACM MM, Lisbon, Portugal, October 2022.
+* **Shengzhong Liu**, Tianshi Wang, Jinyang Li, Dachun Sun, Mani Srivastava, Tarek Abdelzaher, "AdaMask: Enabling Machine-Centric Video Streaming with Adaptive Frame Masking for DNN Inference Offloading", in Proc. ACM MM (Oral), Lisbon, Portugal, October 2022.
 * **Shengzhong Liu**, Shuochao Yao, Xinzhe Fu, Huajie Shao, Rohan Tabish, Simon Yu, Ayoosh Bansal, Heechul Yun, Lui Sha, Tarek Abdelzaher, "Real-Time Task Scheduling for Machine Perception in Intelligent Cyber-Physical Systems", IEEE Transactions on Computerss, Volume 71, Issue 8, August 2022.
 * **Shengzhong Liu**, Tianshi Wang, Hongpeng Guo, Xinzhe Fu, Philip David, Maggie Wigness, Archan Misra, Tarek Abdelzaher, "Multi-View Scheduling of Onboard Live Video Analytics to Minimize Frame Processing Latency", in Proc. IEEE ICDCS, Bologna, Italy, July 2022.
 * **Shengzhong Liu**, Xinzhe Fu, Maggie Wigness, Philip David, Shuochao Yao, Lui Sha, Tarek Abdelzaher, "Self-Cueing Real-Time Attention Scheduling in Criticality-Driven Visual Machine Perception", in Proc. IEEE RTAS, Milano, Italy, May 2022.
