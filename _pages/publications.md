@@ -10,10 +10,10 @@ author_profile: true
 {% endif %}
 
 ## 2025
-* Yongxuan Han, **Shengzhong Liu**, Fan Wu, Guihai Chen, "ABO: Abandon Bayer Filter for Adaptive Edge Offloading in Responsive Augmented Reality", in Proc. WWW 2025.
-* Tomoyoshi Kimura, Xinlin Li, Osama Hanna, Yatong Chen, Yizhuo Chen, Denizhan Kara, Tianshi Wang, Jinyang Li, Xiaomin Ouyang, **Shengzhong Liu**, Mani Srivastava, Suhas Diggavi, Tarek Abdelzaher, "InfoMAE: Pairing-Efficient Cross-Modal Alignment with Informational Masked Autoencoders for IoT Signals", in Proc. WWW 2025.
-* Haibo Liu, Chen Gong, Zhenzhe Zheng, **Shengzhong Liu**, Fan Wu, "Enabling Real-Time Inference in Online Continual Learning via Device-Cloud Collaboration", in Proc. WWW 2025.
-* Yatong Chen, Chenzhi Hu, Tomoyoshi Kimura,  **Shengzhong Liu**, Fan Wu, Guihai Chen, "SemiCMT: Contrastive Cross-Modal Knowledge Transfer for IoT Sensing with Semi-Paired Multi-Modal Signals", in Proc. ACM IMWUT/UbiComp 2025.
+* Yongxuan Han, **Shengzhong Liu**, Fan Wu, Guihai Chen, "ABO: Abandon Bayer Filter for Adaptive Edge Offloading in Responsive Augmented Reality", in Proc. WWW 2025 (Oral), Sydney, Australia, April 2025.
+* Tomoyoshi Kimura, Xinlin Li, Osama Hanna, Yatong Chen, Yizhuo Chen, Denizhan Kara, Tianshi Wang, Jinyang Li, Xiaomin Ouyang, **Shengzhong Liu**, Mani Srivastava, Suhas Diggavi, Tarek Abdelzaher, "InfoMAE: Pairing-Efficient Cross-Modal Alignment with Informational Masked Autoencoders for IoT Signals", in Proc. WWW 2025, Sydney, Australia, April 2025.
+* Haibo Liu, Chen Gong, Zhenzhe Zheng, **Shengzhong Liu**, Fan Wu, "Enabling Real-Time Inference in Online Continual Learning via Device-Cloud Collaboration", in Proc. WWW 2025, Sydney, Australia, April 2025.
+* Yatong Chen, Chenzhi Hu, Tomoyoshi Kimura,  **Shengzhong Liu**, Fan Wu, Guihai Chen, "SemiCMT: Contrastive Cross-Modal Knowledge Transfer for IoT Sensing with Semi-Paired Multi-Modal Signals", in Proc. ACM IMWUT/UbiComp 2025, Espoo, Finland, October 2025.
 
 ## 2024
 * Yuhang Xu, Zixuan Liu, Xinzhe Fu, **Shengzhong Liu**, Fan Wu, Guihai Chen, "FLEX: Adaptive Task Batch Scheduling with Elastic Fusion in Multi-Modal Multi-View Machine Perception", in Proc. IEEE RTSS, York, UK, December 2024.
