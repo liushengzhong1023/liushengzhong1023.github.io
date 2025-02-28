@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 ## 2025
+* Maozhe Zhao, **Shengzhong Liu**, Fan Wu, Guihai Chen, "Responsive DNN Adaptation for video Analytics against Environment Shift via Hierarchical Mobile-Cloud Collaborations", in Proc. ACM SenSys 2025, Irvine, USA, May 2025.
 * Yongxuan Han, **Shengzhong Liu**, Fan Wu, Guihai Chen, "ABO: Abandon Bayer Filter for Adaptive Edge Offloading in Responsive Augmented Reality", in Proc. WWW 2025 (Oral), Sydney, Australia, April 2025.
 * Tomoyoshi Kimura, Xinlin Li, Osama Hanna, Yatong Chen, Yizhuo Chen, Denizhan Kara, Tianshi Wang, Jinyang Li, Xiaomin Ouyang, **Shengzhong Liu**, Mani Srivastava, Suhas Diggavi, Tarek Abdelzaher, "InfoMAE: Pairing-Efficient Cross-Modal Alignment with Informational Masked Autoencoders for IoT Signals", in Proc. WWW 2025, Sydney, Australia, April 2025.
 * Haibo Liu, Chen Gong, Zhenzhe Zheng, **Shengzhong Liu**, Fan Wu, "Enabling Real-Time Inference in Online Continual Learning via Device-Cloud Collaboration", in Proc. WWW 2025, Sydney, Australia, April 2025.
