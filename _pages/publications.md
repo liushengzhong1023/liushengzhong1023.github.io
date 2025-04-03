@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 ## 2025
+* Chenzhi Hu, Yatong Chen, Denizhan Kara, **Shengzhong Liu**, Tarek Abdelzaher, Fan Wu, Guihai Chen, "OpenMAE: Efficient Masked Autoencoder for Vibration Sensing with Open-Domain Data Enrichment", in Proc. ACM IMWUT/UbiComp 2025, Espoo, Finland, October 2025.
 * Zhihao Xu, Maozhe Zhao, Qinya Li, **Shengzhong Liu**, Fan Wu, Guihai Chen, "Distributed DNN-based Video Analytics with Adaptive Multi-Device Collaboration", in Proc. IEEE ICDCS 2025, Glasgow, UK, July 2025.
 * Maozhe Zhao, **Shengzhong Liu**, Fan Wu, Guihai Chen, "Responsive DNN Adaptation for Video Analytics against Environment Shift via Hierarchical Mobile-Cloud Collaborations", in Proc. ACM SenSys 2025, Irvine, USA, May 2025.
 * Yongxuan Han, **Shengzhong Liu**, Fan Wu, Guihai Chen, "ABO: Abandon Bayer Filter for Adaptive Edge Offloading in Responsive Augmented Reality", in Proc. WWW 2025 (Oral), Sydney, Australia, April 2025.
