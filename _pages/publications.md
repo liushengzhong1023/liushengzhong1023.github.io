@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 ## 2025
+* Junyi Chen, Shihao Bai, Zaijun Wang, Siyu Wu, Chuheng Du, Hailong Yang, Ruihao Gong, **Shengzhong Liu**, Fan Wu, Guihai Chen, "$Pre^3$: Enabling Deterministic Pushdown Automata for Faster Structured LLM Generation", in Proc. ACL 2025, Vienna, Austria, July 2025.
 * Chenzhi Hu, Yatong Chen, Denizhan Kara, **Shengzhong Liu**, Tarek Abdelzaher, Fan Wu, Guihai Chen, "OpenMAE: Efficient Masked Autoencoder for Vibration Sensing with Open-Domain Data Enrichment", in Proc. ACM IMWUT/UbiComp 2025, Espoo, Finland, October 2025.
 * Zhihao Xu, Maozhe Zhao, Qinya Li, **Shengzhong Liu**, Fan Wu, Guihai Chen, "Distributed DNN-based Video Analytics with Adaptive Multi-Device Collaboration", in Proc. IEEE ICDCS 2025, Glasgow, UK, July 2025.
 * Maozhe Zhao, **Shengzhong Liu**, Fan Wu, Guihai Chen, "Responsive DNN Adaptation for Video Analytics against Environment Shift via Hierarchical Mobile-Cloud Collaborations", in Proc. ACM SenSys 2025, Irvine, USA, May 2025.
