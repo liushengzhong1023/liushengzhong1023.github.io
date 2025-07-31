@@ -5,6 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
+* Outstanding Paper Award of ACL 2025.
 * Intel China Talent 2024.
 * Xiaomi Young Scholar 2023.
 * Outstanding Paper Award of RTAS 2022.
