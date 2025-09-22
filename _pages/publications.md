@@ -9,7 +9,12 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+## 2026
+* Junyi Chen, Chuheng Du, Renyuan Liu, Shuochao Yao, Dingtian Yan, Jiang Liao, **Shengzhong Liu**, Fan Wu, Guihai Chen, "TokenFlow: Responsive LLM Text Streaming Serving under Request Burst via Preemptive Scheduling", in Proc. ACM EuroSys 2026, Edinburgh, UK.
+
 ## 2025
+* Denizhan Kara, Tomoyoshi Kimura, Jinyang Li, Bowen He, Yizhuo Chen, Yigong Hu, Hongjue Zhao, **Shengzhong Liu**, Tarek Abdelzaher, "AdaTS: Learning Adaptive Time Series Representations via Dynamic Soft Contrasts", in Proc. NeurIPS 2025, San Diego, USA, December 2025.
+* Yuhang Xu, **Shengzhong Liu**, Dong Zhang, Bingheng Yan, Fan Wu, Guihai Chen, "Nova: Real-Time Agentic Vision-Language Model Serving with Adaptive Cross-Stage Parallelization", in Proc. IEEE RTSS 2025, Boston, USA, December 2025.
 * Junyi Chen, Shihao Bai, Zaijun Wang, Siyu Wu, Chuheng Du, Hailong Yang, Ruihao Gong, **Shengzhong Liu**, Fan Wu, Guihai Chen, "$Pre^3$: Enabling Deterministic Pushdown Automata for Faster Structured LLM Generation", in Proc. ACL 2025 (Oral), Vienna, Austria, July 2025.
 * Chenzhi Hu, Yatong Chen, Denizhan Kara, **Shengzhong Liu**, Tarek Abdelzaher, Fan Wu, Guihai Chen, "OpenMAE: Efficient Masked Autoencoder for Vibration Sensing with Open-Domain Data Enrichment", in Proc. ACM IMWUT/UbiComp 2025, Espoo, Finland, October 2025.
 * Zhihao Xu, Maozhe Zhao, Qinya Li, **Shengzhong Liu**, Fan Wu, Guihai Chen, "Distributed DNN-based Video Analytics with Adaptive Multi-Device Collaboration", in Proc. IEEE ICDCS 2025, Glasgow, UK, July 2025.
