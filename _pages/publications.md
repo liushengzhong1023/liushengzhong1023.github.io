@@ -14,6 +14,7 @@ author_profile: true
 * Junyi Chen, Chuheng Du, Renyuan Liu, Shuochao Yao, Dingtian Yan, Jiang Liao, **Shengzhong Liu**, Fan Wu, Guihai Chen, "TokenFlow: Responsive LLM Text Streaming Serving under Request Burst via Preemptive Scheduling", in Proc. ACM EuroSys 2026, Edinburgh, UK.
 
 ## 2025
+* Maozhe Zhao, Rui Shen, **Shengzhong Liu**, Fan Wu, Guihai Chen, "AutoMOCHA: Automated Adaptation Hierarchy for Mobile Video Analytics Against Domain Shifts", in Transactions on Mobile Computing (TMC), early access, December 2025.
 * Denizhan Kara, Tomoyoshi Kimura, Jinyang Li, Bowen He, Yizhuo Chen, Yigong Hu, Hongjue Zhao, **Shengzhong Liu**, Tarek Abdelzaher, "AdaTS: Learning Adaptive Time Series Representations via Dynamic Soft Contrasts", in Proc. NeurIPS 2025, San Diego, USA, December 2025.
 * Yuhang Xu, **Shengzhong Liu**, Dong Zhang, Bingheng Yan, Fan Wu, Guihai Chen, "Nova: Real-Time Agentic Vision-Language Model Serving with Adaptive Cross-Stage Parallelization", in Proc. IEEE RTSS 2025, Boston, USA, December 2025.
 * Junyi Chen, Shihao Bai, Zaijun Wang, Siyu Wu, Chuheng Du, Hailong Yang, Ruihao Gong, **Shengzhong Liu**, Fan Wu, Guihai Chen, "$Pre^3$: Enabling Deterministic Pushdown Automata for Faster Structured LLM Generation", in Proc. ACL 2025 (Oral), Vienna, Austria, July 2025.
