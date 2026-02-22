@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 ## 2026
+* Tingjia Zhang, Bo Chen, **Shengzhong Liu**, Fan Wu, Guihai Chen, "CaT-GS: Efficient 3DGS Rendering for Large Scale Scenes via Inter-frame Caching and Tile Scheduling", in Proc. IEEE/CVF CVPR 2026, Denver, US.
 * Yatong Chen, Chenzhi Hu, Bowen He, Ruijie Wang, Xiaomin Ouyang, **Shengzhong Liu**, Jianxin Li, Fan Wu, Guihai Chen, "Vistar: Enhancing the Perception Capability of LLMs under Imprecise IMU-Text Alignment", in Proc. ACM SIGKDD 2026, Jeju, Korea.
 * Junyi Chen, Chuheng Du, Renyuan Liu, Shuochao Yao, Dingtian Yan, Jiang Liao, **Shengzhong Liu**, Fan Wu, Guihai Chen, "TokenFlow: Responsive LLM Text Streaming Serving under Request Burst via Preemptive Scheduling", in Proc. ACM EuroSys 2026, Edinburgh, UK.
 
