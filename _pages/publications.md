@@ -10,6 +10,8 @@ author_profile: true
 {% endif %}
 
 ## 2026
+* Maozhe Zhao, Rui Shen, Bo Gong, Zhihao Xu, Zhenzhe Zheng, **Shengzhong Liu**, Fan Wu, Guihai Chen, "MACRA: Efficient Knowledge Sharing among Personalized Models against Label Shift in Mobile AI Applications", in Proc. ACM IMWUT/UbiComp 2026, Shanghai, China, October 2026.
+* Yuhang Liu, Minglai Shao, Zengyi Wo, Yunlong Chu, Bing Hao, **Shengzhong Liu**, Ruijie Wang, Jianxin Li, "Learning Noise-Resilient and Transferable Graph-Text Alignment via Dynamic Quality Assessment", Proc. ACM SIGIR 2026, Melbourne, Australia, July 2026.
 * Tingjia Zhang, Bo Chen, **Shengzhong Liu**, Fan Wu, Guihai Chen, "CaT-GS: Efficient 3DGS Rendering for Large Scale Scenes via Inter-frame Caching and Tile Scheduling", in Proc. IEEE/CVF CVPR 2026, Denver, US.
 * Yatong Chen, Chenzhi Hu, Bowen He, Ruijie Wang, Xiaomin Ouyang, **Shengzhong Liu**, Jianxin Li, Fan Wu, Guihai Chen, "Vistar: Enhancing the Perception Capability of LLMs under Imprecise IMU-Text Alignment", in Proc. ACM SIGKDD 2026, Jeju, Korea.
 * Junyi Chen, Chuheng Du, Renyuan Liu, Shuochao Yao, Dingtian Yan, Jiang Liao, **Shengzhong Liu**, Fan Wu, Guihai Chen, "TokenFlow: Responsive LLM Text Streaming Serving under Request Burst via Preemptive Scheduling", in Proc. ACM EuroSys 2026, Edinburgh, UK.
