@@ -10,6 +10,9 @@ author_profile: true
 {% endif %}
 
 ## 2026
+* Yuhang Xu, Kaibin Tian, Yang Tian, Zhice Yang, Yifeng Yu, Yan Li, **Shengzhong Liu**, Fan Wu, Guihai Chen, "BubbleSpec: Turning Long-Tail Bubbles into Speculative Rollout Drafts for Synchronous Reinforcement Learning", in Proc. ICML 2026, Seoul, South Korea, July 2026.
+* Tomoyoshi Kimura, Denizhan Kara, Jinyang Li, Hongjue Zhao, Yigong Hu, Yizhuo Chen, Xiaomin Ouyang, **Shengzhong Liu**, Tarek F. Abdelzaher, "Dywave: Event-Aligned Dynamic Tokenization for Heterogeneous IoT Sensing Signals", in Proc. ICML 2026, Seoul, South Korea, July 2026.
+* Chenzhi Hu, Qinzhe Hu, Yuhang Xu, Junyi Chen, Ruijie Wang, **Shengzhong Liu**, Jianxin Li, Fan Wu, Guihai Chen， “SmartThinker: Progressive Chain-of-Thought Length Calibration for Efficient Large Language Model Reasoning”, in Proc. ICML 2026, Seoul, South Korea, July 2026.
 * Maozhe Zhao, Rui Shen, Bo Gong, Zhihao Xu, Zhenzhe Zheng, **Shengzhong Liu**, Fan Wu, Guihai Chen, "MACRA: Efficient Knowledge Sharing among Personalized Models against Label Shift in Mobile AI Applications", in Proc. ACM IMWUT/UbiComp 2026, Shanghai, China, October 2026.
 * Yuhang Liu, Minglai Shao, Zengyi Wo, Yunlong Chu, Bing Hao, **Shengzhong Liu**, Ruijie Wang, Jianxin Li, "Learning Noise-Resilient and Transferable Graph-Text Alignment via Dynamic Quality Assessment", in Proc. ACM SIGIR 2026, Melbourne, Australia, July 2026.
 * Tingjia Zhang, Bo Chen, **Shengzhong Liu**, Fan Wu, Guihai Chen, "CaT-GS: Efficient 3DGS Rendering for Large Scale Scenes via Inter-frame Caching and Tile Scheduling", in Proc. IEEE/CVF CVPR 2026, Denver, US.
