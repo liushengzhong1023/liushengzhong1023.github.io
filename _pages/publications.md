@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 ## 2026
+* Wei Zhou*, Haoyu Zhao*, Ruiguang Zhong, Shaoli Yu, Xuanhe Zhou, Xue Yang, Xiaosong Jia, Guoliang Li, **Shengzhong Liu**, Kang Zhang, Jie Wu, Fan Wu, "Bridging NL2SQL for CAN Signal Analytics at NIO: From Externalized Schemas to CTE Pipelines", in Proc. VLDB 2026, Boston, USA, August 2026.
 * Chuheng Du, Junyi Chen, Hanlin Tang, Kan Liu, Lan Tao, Lin Qu, Chaoyue Niu, **Shengzhong Liu**, Guihai Chen, Fan Wu, "$C^2KV$: Compressed and Composable KV Cache Reuse for Efficient LLM Inference", in Proc. ACM SIGKDD 2026, Jeju, South Korea, August 2026.
 * Yuhang Liu, Ruijie Wang, Yunlong Chu, Bing Hao, Yumeng Lin, **Shengzhong Liu**, Minglai Shao, "RouteGoT: Node-Adaptive Routing for Cost-Efficient Graph of Thoughts Reasoning", in Proc. ACM SIGKDD 2026, Jeju, South Korea, August 2026.
 * Denizhan Kara, Tomoyoshi Kimura, Chenzhi Hu, Jinyang Li, Yizhuo Chen, Yigong Hu, Hongjue Zhao, **Shengzhong Liu**, Tarek Abdelzaher, "REMIX: Adaptive Open-Domain Signal Mixing for Efficient Sensing Data Augmentation", in IEEE ICCCN (invited), Honolulu, USA, August 2026.
