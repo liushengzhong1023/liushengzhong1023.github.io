@@ -10,8 +10,8 @@ author_profile: true
 {% endif %}
 
 ## 2027
-* Yatong Chen, Bowen He, Chenzhi Hu, Xinkai Wang, Lixin Yang, Xiaomin Ouyang, **Shengzhong Liu**, Liang Liu, Cewu Lu, Fan Wu, Guihai Chen, "TRACE: Consolidating Embodied Experience into Executable On-Device Skills", in Proc. MobiCom 2027, Athens, Greece, October 2027.
-* Wei Wang, Qian Zan, Haoyu Tong, Huiyang Xu, **Shengzhong Liu**, Junzhao Du, Fan Wu, Guihai Chen, "DeltaNPU: Rethinking Gated DeltaNet Execution for Efficient LLM Inference on Mobile NPUs", in Proc. MobiCom 2027, Athens, Greece, October 2027.
+* Yatong Chen, Bowen He, Chenzhi Hu, Xinkai Wang, Lixin Yang, Xiaomin Ouyang, **Shengzhong Liu**, Liang Liu, Cewu Lu, Fan Wu, Guihai Chen, "TRACE: Consolidating Embodied Experience into Executable On-Device Skills", in Proc. ACM MobiCom 2027, Athens, Greece, October 2027.
+* Wei Wang, Qian Zan, Haoyu Tong, Huiyang Xu, **Shengzhong Liu**, Junzhao Du, Fan Wu, Guihai Chen, "DeltaNPU: Rethinking Gated DeltaNet Execution for Efficient LLM Inference on Mobile NPUs", in Proc. ACM MobiCom 2027, Athens, Greece, October 2027.
 
 ## 2026
 * Tingjia Zhang, Yongxuan Han, Maozhe Zhao, Zeting Zhou, **Shengzhong Liu**, Fan Wu, Guihai Chen, "CoSR: Real-Time Super-Resolution for Mobile Video Conference via Inter-Processor Collaboration", in Transactions on Mobile Computing (TMC), early access, July 2026.
